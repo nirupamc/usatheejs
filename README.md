@@ -2,9 +2,9 @@
 
 An interactive 3D crime data visualization dashboard built with React, Three.js, and real-time open government APIs. Explore crime patterns across 10 major US cities with an extruded 3D map, choropleth coloring, hover tooltips, and live ECharts panels.
 
-![Dashboard Preview <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/413942ed-4a71-47f5-93e0-b49a1e794262" />
+[Dashboard Preview <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/413942ed-4a71-47f5-93e0-b49a1e794262" />
 
-
+url: https://usacrimedb.netlify.app/
 ---
 
 ## ✨ Features
