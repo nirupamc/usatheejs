@@ -32,12 +32,12 @@ function App() {
   return (
     <div ref={containerRef} style={{ willChange: "transform, opacity" }}>
       <Routes>
-        <Route path="/" element={<Index />} />
+        <Route path="/" element={<USCrimeDashboard />} />
+        <Route path="/index" element={<Index />} />
         <Route path="/demo0" element={<Demo0 />} />
         <Route path="/demo1" element={<Demo1 />} />
         <Route path="/demo2" element={<Demo2 />} />
         <Route path="/demo3" element={<Demo3 />} />
-        <Route path="/dashboard" element={<USCrimeDashboard />} />
       </Routes>
     </div>
   );
